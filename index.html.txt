@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oghenekparobo Erubami Victor - Official Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background: #f5f5f5;
+    }
+    header {
+      background: black;
+      color: white;
+      padding: 20px;
+    }
+    img {
+      margin-top: 20px;
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 3px solid black;
+    }
+    .bio {
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      background: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .links a {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background: black;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .links a:hover {
+      background: #333;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Oghenekparobo Erubami Victor</h1>
+    <p>Public Figure • Media Personality • Creator</p>
+  </header>
+
+  <img src="profile.jpg" alt="Oghenekparobo Erubami Victor">
+
+  <div class="bio">
+    <p>Oghenekparobo Erubami Victor is a public figure known for his presence in media, lifestyle, and entertainment discussions. Recognized for his bold takes on politics, relationships, technology, and everyday culture, Victor has built a reputation for sparking engaging conversations both online and offline.</p>
+    <p>Follow along for updates, insights, and real-life perspectives that resonate with audiences worldwide.</p>
+  </div>
+
+  <div class="links">
+    <a href="https://www.tiktok.com" target="_blank">TikTok</a>
+    <a href="https://twitter.com" target="_blank">X (Twitter)</a>
+  </div>
+</body>
+</html>
